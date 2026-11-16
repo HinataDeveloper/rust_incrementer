@@ -1,2 +1,3 @@
-# rust_incrementer
-Create an atomic incrementer object by using the Rust programming language.
+# Rust increment-er.
+
+## Create an atomic increment-er object by using the Rust programming language.
